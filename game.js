@@ -1,4 +1,4 @@
-import { Chess } from '/node_modules/chess.js/dist/esm/chess.js';
+import { Chess } from 'coreyprater.github.io/node_modules/chess.js/dist/esm/chess.js';
 
 let players = ['player1', 'player2', 'player3', 'player4'];  // 4 players loop for turns.
 
