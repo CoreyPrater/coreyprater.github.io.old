@@ -1,5 +1,5 @@
 //import { Chess } from '/node_modules/chess.js/dist/esm/chess.js';
-import { Chess } from 'https://unpkg.com/chess.js@1.0.0/dist/esm/chess.js';
+import { Chess } from 'https://cdn.jsdelivr.net/npm/chess.js@1.0.0/dist/esm/chess.js';
 
 
 let players = ['player1', 'player2', 'player3', 'player4'];  // 4 players loop for turns.
